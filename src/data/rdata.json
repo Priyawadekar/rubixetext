@@ -1,0 +1,18 @@
+{
+    "database": [
+      {
+       "Name":"priya",
+       "email":"priya@gmail.com",
+       "mobileNumber":9876543212
+      },
+      {
+        "Name":"riya",
+        "email":"iya@gmail.com",
+        "mobileNumber":95676543212
+      },
+      {
+        "Name":"riya",
+        "email":"riya@gmail.com",
+        "mobileNumber":9276543212
+      }]
+}

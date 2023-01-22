@@ -1,0 +1,23 @@
+body{
+    margin:0px;
+}
+.nav img{
+    margin-left:25px;
+padding-top :10px; 
+}
+.navbar{
+display:flex;
+background-color: black;
+justify-content: space-between;
+align-items: center;
+}
+.lists li{
+display:inline;
+
+}
+.lists a{
+    text-decoration: none;
+    color:white;
+    margin-right: 30px;
+    font-size: 18px;
+}

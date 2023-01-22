@@ -1,0 +1,12 @@
+.third{
+    border: 1px solid transparent;
+    background-color:rgb(210, 31, 130);
+    color: white;
+   padding-left: 400px ;
+}
+.third h1{
+    font-size: 18px;
+}
+.third p{
+    font-size: 14px;
+}

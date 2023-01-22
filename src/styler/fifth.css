@@ -1,0 +1,49 @@
+.fifth{
+   
+    display: flex;
+    border: 2px  solid rgb(104, 99, 99);
+  text-align: center;
+    width:70%;
+    margin-top: 30px;
+    margin-left: 250px;
+    justify-content: space-around;
+    height:300px;
+    padding-top: 60px;
+    
+    
+
+}
+.fifth1 p{
+    font-size: 15px;
+}
+.fifth1{
+    border: 1px solid rgba(139, 122, 122, 0.725);
+   border-bottom: none;
+   border-top: none;
+   border-left: none;
+   padding-right: 30px;
+   text-align: center;
+   padding-right: 50px;
+ 
+ 
+}
+
+.priya{
+    margin-right: 300px;
+}
+.priya1{
+    margin-right: 350px;
+}
+.fifth2 input{
+    height: 30px;
+    width:400px;
+    margin-bottom: 20px;
+    
+}
+.fifth2 button{
+    padding:10px 160px ;
+    background-color:rgb(15, 15, 52);
+    color:white;
+    font-size: 17px;
+
+}

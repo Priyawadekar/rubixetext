@@ -1,0 +1,10 @@
+.secondhme{
+display: flex;
+padding-top: 30px;
+}
+.list{
+  
+    border: 1px solid white;
+    margin-left: 400px;
+    font-size: 13px;
+}

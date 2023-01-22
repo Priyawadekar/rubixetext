@@ -1,0 +1,53 @@
+  .home_image{
+  background:linear-gradient(rgba(0,0,0,0),#020230),url("/public/images/banrr.jpg");
+  height:70vh;
+   background-size:cover ;
+}  
+
+.oaragh{
+  display :flex;
+  align-items: center;
+  margin-top: 0px;
+}
+
+.head h1{ 
+  margin: 0px;
+  padding: 0px;
+    padding-bottom: 0px;
+    /* margin-top: 10px; */
+    padding-top: 240px; 
+     margin-left: 200px;
+    font-size: 30px;
+    color:white; 
+    margin-bottom: 0px; 
+} 
+.para  p{
+  margin: 0px;
+  padding: 0px;
+  
+    margin-left: 200px;
+    font-size: 25px;
+    color:white;
+
+}
+.head2 h1{
+  margin: 0px;
+  padding: 0px;
+
+   margin-top: 0px;
+    margin-left: 20px;  
+    font-size: 25px;
+    margin-bottom: 0px;
+    color:white; 
+
+}
+.heading1{
+  margin-left: 200px;
+  color:white;
+  font-size: 25px;
+  
+}
+.heading1 p{
+margin-top: 0px;
+}
+

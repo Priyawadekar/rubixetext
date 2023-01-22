@@ -1,0 +1,73 @@
+.six{
+   padding-left: 160px;
+   
+    display:flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    /* padding-left: 280px; */
+    /* padding-right: 20px; */
+    padding :  0px 200px;
+    
+    
+    background-color: darkgray;
+}
+.six1{
+    padding-top: 16px;
+}
+.six4 p1{
+    padding-top:0px ;
+    font-size:14px ;
+}
+.six1 p{
+    font-size: 14px;
+}
+.six1 a{ 
+    /* padding-top:50px;  */
+    text-decoration: none;
+    color:black;
+    font-size: 15px;
+}
+.six21 a{
+   
+   text-decoration: none;
+    color:black;
+    font-size: 15px;
+}
+.soc p{
+    margin-top: 0px;
+}
+.ina img{
+     padding-left:10px;
+     /* border-radius: 20px; */
+
+}
+.six22 li{
+display:block;
+
+} 
+.six22 ul{
+    display: block;
+}
+  
+.six22 a{
+   
+    text-decoration: none;
+    color:black;
+    font-size: 15px;
+}
+.six3 a{
+    text-decoration: none;
+    color:black;
+    font-size: 15px;
+}
+.six32 li{
+    display: block;
+}
+.six4 a{
+    text-decoration: none;
+    color:black;
+    font-size: 15px;
+}
+.six4 p{
+    margin-bottom: 5px;
+}
